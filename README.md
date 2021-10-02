@@ -1,4 +1,4 @@
-# Segundo Taller de Git
+# Segundo Taller de Git y GitHub
 
 Taller de práctica de comandos de Git para Seminario de Computación e
 Informática.
